@@ -1,4 +1,4 @@
-# Information System #
+# 1.1 Intro to Information System #
 - connects technology and information by collecting, analyzing, maintaining, and distributing data to support decision-making, coordination, and other functions of orgs.
 
 ### Components ###
@@ -26,6 +26,18 @@
    - policy/procedures ensuring system functions effectively and securely.
         * application control - built into a system; firewalls, encryption, access control
         * general control - process that outlines how an IS is to be used
+### Operations ###
+
+1. Data capture
+   - process of gathering data from various sources, and inputting into a system
+2. Data processing
+   - cleaning, preparing, and analysis to transform data into meaningful insights.
+3. Data storage
+   - maintaining data, storing and protecting data in secure sites
+4. Data retrieval
+   - users should be ale to load and review applications that store data, download and is use for various purposes.
+5. Data dissemination
+   - the process of sharing information
 
 ### Types of information systems ###
 1. Executive (Strategic) [C-suite]
