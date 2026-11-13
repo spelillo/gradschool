@@ -1,7 +1,7 @@
-**Information System**
+# Information System #
 - connects technology and information by collecting, analyzing, maintaining, and distributing data to support decision-making, coordination, and other functions of orgs.
 
-Components
+### Components ###
 1. Hardware
    - physical devices; computers, servers networks, storage devices.
 2. Software
@@ -13,9 +13,21 @@ Components
 5. People
    - everyone; ranging from end users who interact with systems to the designers who develop and maintain the system.
 
-  
+### Elements ###
+1. Environment
+   - physical location and/or network capabilities. must adapt depending on requirements of system (physical location, cybersecurity practices).
+2. Input
+   - the data that is collected and entered into a system, eitehr via users or automatically on events. most IS need multiple software apps to handle diverse types of data (quant vs. qual).
+3. Processing
+   - taking data and making it useful in a system.
+4. Output
+   - data that a system generates and provides to users
+5. Cotrols
+   - policy/procedures ensuring system functions effectively and securely.
+        * application control - built into a system; firewalls, encryption, access control
+        * general control - process that outlines how an IS is to be used
 
-Types of information systems
+### Types of information systems ###
 1. Executive (Strategic) [C-suite]
    - Top of the pyramid, where c-suites live. Develop strategic goals and functions.
    - i.e Supply Chain management
@@ -26,3 +38,10 @@ Types of information systems
    - generate reports, budgets, cash flow, etc. Provide data for orginization across various functions. helps build  *Balance Scorecard* (BSC).
 4. Transaction processing (Operational) [Consultants]
    - day-to-day transactions, order processing to payroll, this provides info necessary to handle daily ops. 
+
+* ERP  - Enterprise resource planning system
+   - software system that helps manage various info systems in an org. Integrates business funtions across orgs, i.e payroll, customer service
+ 
+
+
+
