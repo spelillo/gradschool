@@ -55,5 +55,21 @@
    - software system that helps manage various info systems in an org. Integrates business funtions across orgs, i.e payroll, customer service
  
 
+# 1.2 Frameworks of Knowledge and Industry Standards #
 
+- Framework: tangible structured set set of guidelines and best practices
+- Standards: widely accepted and implemented techniques
+
+Types:
+1. **Agile**
+   - *Framework*
+        - divides projects into sprints
+        - review after each sprint before moving to next
+        - sprints include planning, designing, developing, testing, deploying
+2. **Control objectives for Information and Related Tech (COBIT)**
+   - *Framework*
+        - 5 metholdologies; revolving around 1) Evaluate, Direct, Monitor (EDM)
+          2) **APO** - Agile Plan Organize [Plan]
+          3) **BAI** - Build Acquire Implement [BAI]
+          4) **DSS** - Deliver Service Support [DSS]
 
