@@ -68,8 +68,10 @@ Types:
         - sprints include planning, designing, developing, testing, deploying
 2. **Control objectives for Information and Related Tech (COBIT)**
    - *Framework*
-        - 5 metholdologies; revolving around 1) Evaluate, Direct, Monitor (EDM)
-          2) **APO** - Agile Plan Organize [Plan]
-          3) **BAI** - Build Acquire Implement [BAI]
-          4) **DSS** - Deliver Service Support [DSS]
+        - 5 methodologies; revolving around GOVERNANCE: 1) Evaluate, Direct, Monitor (EDM)
+      MANAGEMENT:
+      2) **APO** - Agile Plan Organize [Plan] <-- Direct
+        3) **BAI** - Build Acquire Implement [Build]
+         4) **DSS** - Deliver Service Support [Run]
+           5) **MEA** - Monitor Evaluate Asses [Monitor] --> Monitor
 
