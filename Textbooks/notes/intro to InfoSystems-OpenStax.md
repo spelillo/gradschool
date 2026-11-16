@@ -74,4 +74,8 @@ Types:
         3) **BAI** - Build Acquire Implement [Build]
          4) **DSS** - Deliver Service Support [Run]
            5) **MEA** - Monitor Evaluate Asses [Monitor] --> Monitor
-
+3. **Information Technology Infrastructure Library (ITIL)**
+   - *Framework*
+        - Best practices for managing IT.
+        - managed by AXELOS
+             - offer certifications, guidance, and 26 processes all related to **service strategy, design, transition, operation, improvement.**
